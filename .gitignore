@@ -1,0 +1,3 @@
+*__pycache__*
+audios/*.mp3
+!audios/cria_audios.py
